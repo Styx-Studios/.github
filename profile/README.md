@@ -15,7 +15,7 @@ computer and work without an account. Every app is written in Rust, including th
 | [Local Paint](https://github.com/Anon5T4R/Local-Paint) | raster image editor |
 | [Local Vector](https://github.com/Anon5T4R/Local-Vector) | vector graphics editor |
 | [Local Player](https://github.com/Anon5T4R/Local-Player) | video and audio player |
-| [Local Obsidian](https://github.com/Anon5T4R/Local-Obsidian) | Markdown notes over a folder of files, desktop and Android |
+| [Local Notebook](https://github.com/Anon5T4R/Local-Obsidian) | Markdown notes over a folder of files, desktop and Android |
 | [Local Mind](https://github.com/Anon5T4R/Local-Mind) | mind maps |
 | [Local Utils](https://github.com/Anon5T4R/Local-Utils) | small everyday tools |
 
@@ -52,7 +52,7 @@ These decisions hold for every app.
 - **Agents can use the apps.** Every app exposes its commands over MCP, so an AI agent can operate it
   the way a person does.
 - **Windows and Linux.** That is what we use and test. Android exists where it makes sense (Keys,
-  Obsidian), with the same file format as the desktop. Other systems may build, but are not
+  Notebook), with the same file format as the desktop. Other systems may build, but are not
   published.
 
 ## Made with AI agents
